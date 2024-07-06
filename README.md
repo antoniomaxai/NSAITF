@@ -7,6 +7,8 @@ A high resolution version of the NSAITF diagram is available here: [NSAITF 300dp
 
 ![NSAITF](NSAITF.png)
 
+>**Update July 6, 2024**:
+>The NSAITF was evaluated using 23 out of 29 Cyber Law collection scenarios from NATO's Cooperative Cyber Defence Centre of Excellence (CCDCOE). This approach enabled both qualitative assessment and quantitative analysis of the societal impacts of cyberwarfare operations. The results of this evaluation are available in a public spreadsheet at: [[Google Sheets document]](https://docs.google.com/spreadsheets/d/1FeekXROr04drN8gcQYSVbv28M3wKvIqJlTgzGLz0bmQ/edit?usp=sharing) 
 
 <hr />
 
