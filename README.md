@@ -20,6 +20,9 @@ By transcending siloed analysis, the NSAITF empowers users to navigate the compl
 
 The NSAITF also comes with a basic Likert scale scoring mechanism for immediate quantitative analysis. Its neutral attribution selection focuses on activities without political bias, addressing the evolving risks posed by a myriad of threat scenarios. This attribution neutrality ensures that the framework's analysis remains unbiased, even when considering novel complex emergent adversarial AI behaviors and uncontrolled autonomous entities.
 
+>Basic usage<br/>
+>Out of the box, it can be as simple as: ![eq1](https://quicklatex.com/cache3/62/ql_34967d7f93926970d46125e7f7c95262_l3.png) <br/>Or you may assign weighted averages for categories in personalized use cases: ![eq2](https://quicklatex.com/cache3/26/ql_9fb7fc5204b55e712967159aa17df626_l3.png)
+
 Using this system, scores above certain thresholds illustrate potential horizontal escalatory spirals, and the framework helps users understand acceptable operational thresholds from diverse risk perspectives. The taxonomy of the NSAITF groups and categories includes:
 
 - **Operation Scope (Red)**: Covers motivational intents and threat actors, allowing for varied analytical interpretations.
