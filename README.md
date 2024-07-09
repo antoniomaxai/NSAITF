@@ -1,5 +1,5 @@
 
-# National Security AI Threat Framework Taxonomy - (NSAITF)
+# National Security AI Threat Framework (NSAITF) - Taxonomy
 
 You can read the full article featuring the NSAITF in its final chapter on my Substack:<br/> [Algorithmic Frontiers | The IC AI Multiplier: Automating Superiority](https://antoniomax.substack.com/p/the-ic-ai-multiplier-automating-superiority)
 
